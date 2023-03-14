@@ -26,12 +26,19 @@ RTS  real-time strategy
 В подобные игры играют взрослые люди, любители жанра, обычно мужчины.
 
 Игры референсы: 
+
 warhammer 40000 dawn of war 
+
 empire earth
+
 warcraft
+
 command and conquer
+
 РТСКИ на unreal:
+
 AGE OF EMPIRES 4
+
 Ancestors Legacy
 
 Описание концепции:
